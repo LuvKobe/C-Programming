@@ -58,7 +58,7 @@
 #### 1. 数据类型存储原理
 
 - 🥐  博客链接：
-- 📝 刷题链接：[数据的存储作业一](https://github.com/LuvKobe/StudyCode-2022/blob/main/test_06_15/数据的存储作业一.md)、[数据的存储作业二](https://github.com/LuvKobe/StudyCode-2022/blob/main/test_06_20/数据的存储作业二.md)
+- 📝 刷题链接：[练习题一](https://github.com/LuvKobe/C-Programming/blob/main/11-数据类型存储原理/01练习题一.md)、[练习题二](https://github.com/LuvKobe/C-Programming/blob/main/11-数据类型存储原理/02练习题二.md)
 
 #### 2. 指针的进阶
 
