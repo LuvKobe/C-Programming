@@ -73,7 +73,7 @@
 #### 4. 自定义类型讲解
 
 - 🥐  博客链接：
-- 📝 刷题链接：
+- 📝 刷题链接：[练习题一](https://github.com/LuvKobe/C-Programming/blob/main/14-自定义类型讲解/01练习题一.md)、[练习题二](https://github.com/LuvKobe/C-Programming/blob/main/14-自定义类型讲解/02练习题二.md)
 
 #### 5. 动态内存管理
 
