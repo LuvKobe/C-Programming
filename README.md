@@ -83,10 +83,9 @@
 #### 6. 文件操作
 
 - 🥐  博客链接：
-- 📝 刷题链接：
+- 📝 刷题链接：[练习题一](https://github.com/LuvKobe/C-Programming/blob/main/16-文件操作/01练习题一.md)、[练习题二](https://github.com/LuvKobe/C-Programming/blob/main/16-文件操作/02练习题二.md)
 
 #### 7. 程序的编译（预处理操作）
 
 - 🥐  博客链接：
-- 📝 刷题链接：
-
+- 📝 刷题链接：[练习题一](https://github.com/LuvKobe/C-Programming/blob/main/17-程序的编译（预处理操作）/01练习题一.md)
