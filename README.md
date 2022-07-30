@@ -63,7 +63,7 @@
 #### 2. 指针的进阶
 
 - 🥐  博客链接：
-- 📝 刷题链接：[指针的进阶作业一](https://github.com/LuvKobe/StudyCode-2022/blob/main/test_06_30/指针的进阶作业一.md)、[指针的进阶作业二](https://github.com/LuvKobe/StudyCode-2022/blob/main/test_06_30/指针的进阶作业二.md)、[指针的进阶作业三](https://github.com/LuvKobe/StudyCode-2022/blob/main/test_06_30/指针的进阶作业三.md)
+- 📝 刷题链接：[练习题一](https://github.com/LuvKobe/C-Programming/blob/main/12-指针的进阶/01练习题一.md)、[练习题二](https://github.com/LuvKobe/C-Programming/blob/main/12-指针的进阶/02练习题二.md)、[练习题三](https://github.com/LuvKobe/C-Programming/blob/main/12-指针的进阶/03练习题三.md)
 
 #### 3. 字符串和内存函数的介绍
 
