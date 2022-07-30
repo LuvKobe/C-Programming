@@ -78,7 +78,7 @@
 #### 5. 动态内存管理
 
 - 🥐  博客链接：
-- 📝 刷题链接：
+- 📝 刷题链接：[练习题一](https://github.com/LuvKobe/C-Programming/blob/main/15-动态内存管理/01练习题一.md)
 
 #### 6. 文件操作
 
